@@ -344,19 +344,6 @@ La solución descrita aquí basta para activar una búsqueda de DNS y, por lo ta
 
 
 
-![[Pasted image 20250723163256.png]]
-![[Pasted image 20250723163245.png]]
-![[Pasted image 20250723163217.png]]
-![[Pasted image 20250723163234.png]]
-![[Pasted image 20250723163308.png]]
-![[Pasted image 20250723163322.png]]
-![[Pasted image 20250723163333.png]]
-![[Pasted image 20250723163345.png]]
-![[Pasted image 20250723163400.png]]
-![[Pasted image 20250723163412.png]]
-![[Pasted image 20250723163429.png]]
-
-
 
 
 
