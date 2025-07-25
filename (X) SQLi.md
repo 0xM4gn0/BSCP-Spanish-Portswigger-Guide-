@@ -1,3 +1,14 @@
+## Índice
+
+- [UNION Attack: Determinar el número de columnas](#union-attack-determinar-el-número-de-columnas)
+- [UNION Attack: Encontrar columnas con texto](#union-attack-encontrar-columnas-con-texto)
+- [UNION Attack: Recuperar datos de otras tablas](#union-attack-recuperar-datos-de-otras-tablas)
+- [UNION Attack: Múltiples valores en una sola columna](#union-attack-múltiples-valores-en-una-sola-columna)
+- [Obtener versión de DB (Oracle, MySQL, MSSQL)](#obtener-versión-de-db)
+- [Listado de bases de datos y tablas](#listado-de-bases-de-datos-y-tablas)
+- [Blind SQLi - Condicional, con errores, delay y exfiltración](#blind-sqli)
+- [Login Bypass & WHERE Vulnerability](#login-bypass--where-vulnerability)
+- [Error-based Injection Visible](#error-based-injection-visible)
 
 ## SQL injection UNION attack, determinar el número de columnas
 
@@ -341,21 +352,6 @@ La solución descrita aquí basta para activar una búsqueda de DNS y, por lo ta
 ---
 
 1. Inicie sesión como `administrator` con la contraseña robada para resolver el laboratorio.
-
-
-
-![[Pasted image 20250723163256.png]]
-![[Pasted image 20250723163245.png]]
-![[Pasted image 20250723163217.png]]
-![[Pasted image 20250723163234.png]]
-![[Pasted image 20250723163308.png]]
-![[Pasted image 20250723163322.png]]
-![[Pasted image 20250723163333.png]]
-![[Pasted image 20250723163345.png]]
-![[Pasted image 20250723163400.png]]
-![[Pasted image 20250723163412.png]]
-![[Pasted image 20250723163429.png]]
-
 
 
 
